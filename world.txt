@@ -1,2 +1,6 @@
 "hello world"
+<<<<<<< HEAD
 "added the css section"
+=======
+"added the html code"
+>>>>>>> bfa2aba5ba81984eb2d7660d62ec3cf9e29f1f20
